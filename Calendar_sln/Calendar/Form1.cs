@@ -61,8 +61,10 @@ namespace Calendar
         {
             //clear container
             daysContainer.Controls.Clear();
-            /*if (month == 1)
-                year--;*/
+            /*if (month == 1) {
+                year--;
+                month = 12;
+              }
             //decrement month
             month--;
             String monthName = DateTimeFormatInfo.CurrentInfo.GetMonthName(month);
@@ -88,8 +90,10 @@ namespace Calendar
         {
             //clear container
             daysContainer.Controls.Clear();
-            /*if (month == 12)
-                year++;*/
+            /*if (month == 12) {
+                year++;
+                month = 1;
+              }*/
             //increment month
             month++;
             String monthName = DateTimeFormatInfo.CurrentInfo.GetMonthName(month);
