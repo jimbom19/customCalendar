@@ -64,7 +64,7 @@ namespace Calendar
             /*if (month == 1) {
                 year--;
                 month = 12;
-              }
+              }*/
             //decrement month
             month--;
             String monthName = DateTimeFormatInfo.CurrentInfo.GetMonthName(month);
