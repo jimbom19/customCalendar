@@ -1,0 +1,12 @@
+C:\Users\BCSITWD3\Desktop\JinKim\Grind\personal\Calendar_sln\Calendar\bin\Debug\Calendar.exe.config
+C:\Users\BCSITWD3\Desktop\JinKim\Grind\personal\Calendar_sln\Calendar\bin\Debug\Calendar.exe
+C:\Users\BCSITWD3\Desktop\JinKim\Grind\personal\Calendar_sln\Calendar\bin\Debug\Calendar.pdb
+C:\Users\BCSITWD3\Desktop\JinKim\Grind\personal\Calendar_sln\Calendar\obj\Debug\Calendar.csproj.AssemblyReference.cache
+C:\Users\BCSITWD3\Desktop\JinKim\Grind\personal\Calendar_sln\Calendar\obj\Debug\Calendar.Form1.resources
+C:\Users\BCSITWD3\Desktop\JinKim\Grind\personal\Calendar_sln\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+C:\Users\BCSITWD3\Desktop\JinKim\Grind\personal\Calendar_sln\Calendar\obj\Debug\Calendar.csproj.GenerateResource.cache
+C:\Users\BCSITWD3\Desktop\JinKim\Grind\personal\Calendar_sln\Calendar\obj\Debug\Calendar.csproj.CoreCompileInputs.cache
+C:\Users\BCSITWD3\Desktop\JinKim\Grind\personal\Calendar_sln\Calendar\obj\Debug\Calendar.exe
+C:\Users\BCSITWD3\Desktop\JinKim\Grind\personal\Calendar_sln\Calendar\obj\Debug\Calendar.pdb
+C:\Users\BCSITWD3\Desktop\JinKim\Grind\personal\Calendar_sln\Calendar\obj\Debug\Calendar.UserControlBlank.resources
+C:\Users\BCSITWD3\Desktop\JinKim\Grind\personal\Calendar_sln\Calendar\obj\Debug\Calendar.UserControlIncludedDays.resources
