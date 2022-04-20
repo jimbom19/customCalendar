@@ -18,7 +18,7 @@ namespace Calendar
         }
         public void days(int numday)
         {
-            label_Days.Text = numday+"";
+            label_Days.Text = numday + "";
         }
     }
 }
